@@ -14,5 +14,5 @@ Configuration Steps:
 6. Run Solution in Debug mode.
 
 User Login:
-1. U:User@yahoo.com P:User1234
-2. U:Test@yahoo.com P:Test1234
+1. UserName:User@yahoo.com Password:User1234
+2. UserName:Test@yahoo.com Password:Test1234
